@@ -1,0 +1,30 @@
+
+
+<div class="flex flex-column">
+  <h3>Buscar</h3>
+  <mat-form-field>
+    <mat-label>Buscar producto...</mat-label>
+    <input
+      type="text"
+      matInput
+      [formControl]="searchInput"
+      (input)="searchingProduct()"
+      [matAutocomplete]="auto"
+      />
+
+      <mat-autocomplete autoActiveFirstOption
+        #auto="matAutocomplete">
+          <mat-option *ngFor="let product of products" [value]="product">
+            {{product.name}}
+          </mat-option>
+
+          <mat-option
+           *ngIf="products.length === 0 && searchInput.value && searchInput.value.length > 0"
+           value="">
+            No hay resultados de {{searchInput.value}}
+          </mat-option>
+      </mat-autocomplete>
+
+  </mat-form-field>
+</div>
+

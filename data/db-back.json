@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "productos": [
+    {
+      "id": "prod-coca-cola",
+      "name": "Coca-Cola",
+      "price": "$5.18",
+      "type": "drink",
+      "info": "Coca-Cola Zero Sugar Sugar-Free Soda Pop, 16.9 fl oz Bottles, 6 Pack"
+    },
+    {
+      "id": "prod-pepsi",
+      "name": "Pepsi",
+      "price": "$7.48",
+      "type": "drink",
+      "info": "Pepsi Cola Zero Sugar Soda Pop, 12 fl oz, 6 Pack"
+    },
+    {
+      "id": "prod-fanta",
+      "name": "Fanta",
+      "price": "$6.98",
+      "type": "drink",
+      "info": "Fanta Soda, Orange, 12 Fl Oz, 6 Pack"
+    },
+    {
+      "id": "prod-sprite",
+      "name": "Sprite",
+      "price": "$4.18",
+      "type": "drink",
+      "info": "Sprite Lemon Lime, Mini Soda Pop, Soft Drink, 7.5 fl oz, 6 Pack Cans"
+    },
+    {
+      "id": "prod-dr-pepper",
+      "name": "Dr Pepper",
+      "price": "$4.12",
+      "type": "drink",
+      "info": "Dr Pepper Soda Pop, 16.9 fl oz, 6 Pack"
+    },
+    {
+      "id": "prod-corona",
+      "name": "Corona",
+      "price": "$9.27",
+      "type": "drink",
+      "info": "Corona Extra Mexican Lager Import Beer, 12 Fl Oz, Glass Bottles, 6 Pack"
+    },
+    {
+      "id": "prod-presidente",
+      "name": "Presidente",
+      "price": "$7.12",
+      "type": "drink",
+      "info": "Dominican Republic, American Style, 6 Pack"
+    },
+    {
+      "id": "prod-brahma",
+      "name": "Brahma",
+      "price": "$6.87",
+      "type": "drink",
+      "info": "Brahma 473cc, 6 Pack"
+    },
+    {
+      "id": "prod-miller",
+      "name": "Miller",
+      "price": "$8.73",
+      "type": "drink",
+      "info": "Miller Genuine Draft Beer, 6 Pack, 12 fl oz Glass Bottles, 4.7% ABV, Domestic Lager"
+    },
+    {
+      "id": "prod-guinness",
+      "name": "Guinness",
+      "price": "$13.98",
+      "type": "drink",
+      "info": "Guinness Draught Stout Import Beer, 14.9 fl oz, 8 Pack Cans, 4.2% ABV"
+    },
+    {
+      "id": "prod-lays",
+      "name": " Lay's Classic",
+      "price": "$2.14",
+      "type": "food",
+      "info": "Lay's Classic Potato Chips Snack Chips, 8 oz"
+    },
+    {
+      "id": "prod-doritos",
+      "name": "Doritos Nacho Cheese ",
+      "price": "$4.48",
+      "type": "food",
+      "info": "Doritos Nacho Cheese Flavored Tortilla Chips Snacks Chips, 9.25 oz"
+    },
+    {
+      "id": "prod-ruffles",
+      "name": "Ruffles Original",
+      "price": "$5.94",
+      "type": "food",
+      "info": "Ruffles Original Flavor Potato Snack Chips,Party Size, 13 Ounce Bag"
+    },
+    {
+      "id": "prod-tostitos",
+      "name": "Tostitos Bite Size",
+      "price": "$4.37",
+      "type": "food",
+      "info": "Tostitos Bite Size Tortilla Round Chips, 12 oz bag"
+    },
+    {
+      "id": "prod-cheetos",
+      "name": "Cheetos Puff Cheese",
+      "price": "$3.98",
+      "type": "food",
+      "info": "Cheetos Puff Cheese Flavored Snack Chips, 8 oz"
+    },
+    {
+      "id": "prod-hersheys",
+      "name": "Hershey's",
+      "price": "$2.98",
+      "type": "food",
+      "info": "Hershey's Milk Chocolate Giant Candy, Bar 7.56 oz, 25 Pieces"
+    },
+    {
+      "id": "prod-snickers",
+      "name": "Snickers",
+      "price": "$1.32",
+      "type": "food",
+      "info": "Snickers Full Size Candy Chocolate Bar - 1.86 oz Bar"
+    },
+    {
+      "id": "prod-kinder",
+      "name": "Kinder Chocolate",
+      "price": "$4.88",
+      "type": "food",
+      "info": "Kinder Chocolate Mini, Milk Chocolate Bars, Individually Wrapped Candy, Up To 34 Minis"
+    },
+    {
+      "id": "prod-kisses",
+      "name": "Kisses Milk Chocolate",
+      "price": "$4.56",
+      "type": "food",
+      "info": "Hershey's Kisses Milk Chocolate Candy, Share Pack 10.8 oz"
+    },
+    {
+      "id": "prod-milky-way",
+      "name": "Milky Way Milk Chocolate",
+      "price": "$5.12",
+      "type": "food",
+      "info": "Milky Way Fun Size Milk Chocolate Candy Bars, 10.65 oz Bag"
+    }
+  ]
+}
